@@ -1,0 +1,6 @@
+{
+  "name": "Matematik Soru Mimarı",
+  "description": "K-12 ortaokul matematik öğretmenleri için Türkiye Yüzyılı Maarif Modeli (TYMM) uyumlu, LaTeX destekli ve eşzamanlı A4 önizlemeli yapay zeka çalışma yaprağı hazırlama platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
